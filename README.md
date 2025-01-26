@@ -59,9 +59,9 @@ Ensure the following are installed:
 
 3. Configure environment variables in a `.env` file:
    ```plaintext
-   OPENWEATHER_API_KEY=your_api_key
-   AWS_BUCKET_NAME=your_bucket_name
-   AWS_DEFAULT_REGION=your_region
+   OPENWEATHER_API_KEY=01a1ec452e4adb14c36d7121723ddc04
+   AWS_BUCKET_NAME=weather-dashboard
+   AWS_DEFAULT_REGION=us-east-1
    ```
 
 4. Configure AWS credentials:
