@@ -75,7 +75,6 @@ Ensure the following are installed:
    ```
 
 ## Screenshots
-_Add screenshots to showcase the application's output and AWS integration._
 
 1. **Application Output:**
 
